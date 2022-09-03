@@ -1,0 +1,272 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "যে ১০ টি ভুল বিগিনার রিয়্যাক্ট ডেভেলপাররা করে থাকেন",
+      "description": "আপনারা যারা বিগিনার হিসেবে রিয়্যাক্ট জেস নিয়ে কাজ করা শুরু করেছেন, তারা রিয়্যাক্ট এর বেশ কিছু কনসেপ্ট ঠিক মতো আয়ত্ত না করতে পারার কারণে বিচিত্র কিছু সমস্যার সম্মুখীন হন এবং শেষ পর্যন্ত বুঝতে না পেরে হতাশ হয়ে পড়েন। তাদের জন্যই এই ভিডিওটি। এই ভিডিওতে আমি এমন ১০টি সমস্যার কথা তুলে ধরেছি যেগুলো বিগিনার হিসেবে আপনারা অহরহ সম্মুখীন হবেন। আশা করি ভিডিওটি দেখলে আপনাদের এই সমস্যাগুলো নিয়ে আর কনফিউশন থাকবেনা।",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/6O4s7v28nlw",
+      "thumbnail": "https://i3.ytimg.com/vi/6O4s7v28nlw/maxresdefault.jpg",
+      "tags": ["javascript", "react", "tips"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 2,
+      "title": "David Guetta - Hey Mama (Ers Remix)",
+      "description": "ARTIST - ERS, Valerie Baltaeva",
+      "author": "WazeLla Music",
+      "avatar": "https://yt3.ggpht.com/sj819TgICdEBeYg3vZYKzTtsL3MtpMIu1T_NfR9Yc4YTAeqrqPo8mr_k10kEg7aFJNyOgiyLOA=s48-c-k-c0x00ffffff-no-rj",
+      "date": "12 Oct 2021",
+      "duration": "2:44",
+      "views": "445,378",
+      "link": "https://www.youtube.com/watch?v=IILXDJcElQc&list=RDIILXDJcElQc&start_radio=1",
+      "thumbnail": "https://i.ytimg.com/vi/IILXDJcElQc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADpmQuJEHKn7GgqTuDLNFk0G9Ezw",
+      "tags": ["music", "david guetta"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 3,
+      "title": "VS Code Snippets - Boost your productivity with User Snippets",
+      "description": "আমরা যখন Visual Studio Code Editor এ কাজ করি তখন অহরহ ব্যবহৃত কোড ব্লক গুলো আমাদের কে বারবার টাইপ করতে হয় এবং সামগ্রিকভাবে চিন্তা করলে এরকম ছোট ছোট ম্যনুয়াল কাজ আমাদের productivity অনেকাংশেই কমিয়ে দেয়। VS Code এর বিল্ট ইন ইউজার স্নিপেট ফিচারের মাধ্যমে আমরা কমন কাজগুলো স্নিপেট আকারে সাজিয়ে রেখে দিতে পারি এবং শর্টকাট কমান্ডের মাধ্যমে বড় বড় কোড ব্লক গুলো নিয়ে আসতে পারি। এই ভিডিওতে আপনারা এটাই জানতে পারবেন যে কিভাবে আমরা Visual Studio Code Editor এ কাস্টম স্নিপেট লিখতে পারি।",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "April 25, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/N-U6AVcIPy4",
+      "thumbnail": "https://i3.ytimg.com/vi/N-U6AVcIPy4/maxresdefault.jpg",
+      "tags": ["vscode", "tips"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 4,
+      "title": "Tailwind CSS 3 tutorial - Upgrade to Tailwind 3 | Tailwind CSS Bangla Tutorial",
+      "description": "Tailwind CSS v3.0 came with incredible performance gains, huge workflow improvements, and a seriously ridiculous number of new features. In this tutorial - I have tried to explain different new features of Tailwind CSS version 3, how to install tailwind css 3, how to upgrade from tailwind v2 to v3 etc.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "March 11, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/4M7D3O2XX4o",
+      "thumbnail": "https://i3.ytimg.com/vi/4M7D3O2XX4o/maxresdefault.jpg",
+      "tags": ["tailwind", "css"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 5,
+      "title": "God-Tier Developer Roadmap",
+      "description": "The programming iceberg is complete roadmap to the loved, hated, historical, and weird programming languages that you should now about. It starts with easy-to-learn coding tools, then descends into the most difficult low-level and esoteric languages. Featuring C, C++, C#, F#, HolyC, C--, Java, JavaScript, Python, Rust, Fortran, Lisp, V, Nim, Zig, APL, Ada, COBOL, Haskell, Scala, Clojure, Kotlin, Swift, Lua, PHP, Elixir, Erlang, Chef, Malbolge, lolcode, emojicode, ASM and many more!",
+      "author": "Fireship",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu80d66aj0mK3KEyMfpdGFyrVWdV5tfezE17IwRkhw=s48-c-k-c0x00ffffff-no-rj",
+      "date": "24 Aug 2022",
+      "duration": "16:41",
+      "views": "1,054,393",
+      "link": "https://www.youtube.com/watch?v=pEfrdAtAmqk",
+      "thumbnail": "https://i.ytimg.com/vi/pEfrdAtAmqk/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUDAuH_6zdW0zHMkSGrO6rUGdYfw",
+      "tags": ["developer", "javascript"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 6,
+      "title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "description": "In this video, I have explained about the debounce function in JavaScript. This is a common question interviewers ask at Job Interviews. If you watch this video carefully, you will understand what is debounce and how to handle it with custom debounce function.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Jan 06, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/dD9O8DnIBj4",
+      "thumbnail": "https://i3.ytimg.com/vi/dD9O8DnIBj4/maxresdefault.jpg",
+      "tags": ["debounce", "javascript", "tips"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 7,
+      "title": "SASS Tutorial in English - Overview of SASS",
+      "description": "In this video, I have given a high level overview of popular CSS Pre-processor SASS which helps us managing our styles at scale. If you have a basic understanding of CSS & JavaScript, this 10 mins SASS Tutorial will help you getting started with SASS.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Nov 22, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/4tV1Mfi4fMA",
+      "thumbnail": "https://i3.ytimg.com/vi/4tV1Mfi4fMA/maxresdefault.jpg",
+      "tags": ["sass", "css", "ui"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 8,
+      "title": "7 Cryptography Concepts EVERY Developer Should Know",
+      "description": "Cryptography is scary. In this tutorial, we get hands-on with Node.js to learn how common crypto concepts work, like hashing, encryption, signing, and more.",
+      "author": "Fireship",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu80d66aj0mK3KEyMfpdGFyrVWdV5tfezE17IwRkhw=s48-c-k-c0x00ffffff-no-rj",
+      "date": "1 Nov 2021",
+      "duration": "11:54",
+      "views": "783,097",
+      "link": "https://www.youtube.com/watch?v=NuyzuNBFWxQ",
+      "thumbnail": "https://i.ytimg.com/vi/NuyzuNBFWxQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTyrRHXyXUageXxbaKQcW-fg6vcA",
+      "tags": ["developer", "cryptography"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 9,
+      "title": "React Router DOM v6 Bangla Tutorial - Breaking Changes - React Router 6 vs 5",
+      "description": "In this React Router DOM v6 Bangla tutorial, you will learn how to install react router dom 6, what are the breaking changes in react router 6, difference between react router 6 vs 5, how to upgrade from react router v5 to react router v6. ",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Nov 08, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/34tjWL9wi4g",
+      "thumbnail": "https://i3.ytimg.com/vi/34tjWL9wi4g/maxresdefault.jpg",
+      "tags": ["react", "router", "javascript"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 10,
+      "title": "Redux in 100 Seconds",
+      "description": "Redux is a popular state management pattern for large-scale web applications. Learn the basics of the Redux with React.",
+      "author": "Fireship",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu80d66aj0mK3KEyMfpdGFyrVWdV5tfezE17IwRkhw=s48-c-k-c0x00ffffff-no-rj",
+      "date": "21 Apr 2022",
+      "duration": "2:33",
+      "views": "330,788",
+      "link": "https://www.youtube.com/watch?v=_shA5Xwe8_4",
+      "thumbnail": "https://i.ytimg.com/vi/_shA5Xwe8_4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCH2tHuwNB5SLdXI6Gen7pmqwA3cQ",
+      "tags": ["developer", "redux"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 11,
+      "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
+      "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
+      "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg",
+      "tags": ["tailwind", "css", "ui"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 12,
+      "title": "The JavaScript Survival Guide",
+      "description": "The JavaScript Survival Guide 🧟 provides protection from the so-called features that you will encounter as a JS developer. This primer will introduce you to variables, functions, objects, closures, hoisting, this-binding, and more.",
+      "author": "Fireship",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu80d66aj0mK3KEyMfpdGFyrVWdV5tfezE17IwRkhw=s48-c-k-c0x00ffffff-no-rj",
+      "date": "15 Jul 2019",
+      "duration": "14:46",
+      "views": "496,428",
+      "link": "https://www.youtube.com/watch?v=9emXNzqCKyg",
+      "thumbnail": "https://i.ytimg.com/vi/9emXNzqCKyg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcN1q7_gIv4qOoG28u3emTbFtEew",
+      "tags": ["developer", "javascript"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 13,
+      "title": "Humnava Mere👣 | Jubin Nautiyal | Shoddo Khan",
+      "description": "Can anyone tell me how? -yes. Can they prove it? -no 😅",
+      "author": "Shoddo Khan",
+      "avatar": "https://yt3.ggpht.com/vnKdZOzXUhRdbukzm7FXVm2xXKXo-Q1MB4yW85n8DNsq2FTA-MhWd0_nNJr4RAzOX4Yu8QvRJ78=s48-c-k-c0x00ffffff-no-rj",
+      "date": "11 Oct 2020",
+      "duration": "2:03",
+      "views": "647,225",
+      "link": "https://www.youtube.com/watch?v=8HFSvzqkOt4",
+      "thumbnail": "https://i.ytimg.com/vi/8HFSvzqkOt4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnCFirHWUtcc1V_9ha4lFyGFg9tQ",
+      "tags": ["music", "shoddo khan"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 14,
+      "title": "Uskaa hi bana | Aye Khuda | Shoddo Khan",
+      "description": "Chill :P",
+      "author": "Shoddo Khan",
+      "avatar": "https://yt3.ggpht.com/vnKdZOzXUhRdbukzm7FXVm2xXKXo-Q1MB4yW85n8DNsq2FTA-MhWd0_nNJr4RAzOX4Yu8QvRJ78=s48-c-k-c0x00ffffff-no-rj",
+      "date": "5 May 2020",
+      "duration": "1:38",
+      "views": "3,720,113",
+      "link": "https://www.youtube.com/watch?v=bMdZ8YqMaaw",
+      "thumbnail": "https://i.ytimg.com/vi/bMdZ8YqMaaw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSSGWhgWnqRWV7m0lbAZ-AbQrgTQ",
+      "tags": ["music", "shoddo khan"],
+      "likes": 0,
+      "unlikes": 0
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "title": "javascript"
+    },
+    {
+      "id": 2,
+      "title": "react"
+    },
+    {
+      "id": 3,
+      "title": "tips"
+    },
+    {
+      "id": 4,
+      "title": "vscode"
+    },
+    {
+      "id": 5,
+      "title": "tailwind"
+    },
+    {
+      "id": 6,
+      "title": "css"
+    },
+    {
+      "id": 7,
+      "title": "debounce"
+    },
+    {
+      "id": 8,
+      "title": "sass"
+    },
+    {
+      "id": 9,
+      "title": "ui"
+    },
+    {
+      "id": 10,
+      "title": "router"
+    },
+    {
+      "id": 11,
+      "title": "music"
+    },
+    {
+      "id": 12,
+      "title": "david guetta"
+    },
+    {
+      "id": 13,
+      "title": "developer"
+    },
+    {
+      "id": 14,
+      "title": "shoddo khan"
+    }
+  ]
+}
